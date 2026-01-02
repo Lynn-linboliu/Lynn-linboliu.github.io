@@ -11,14 +11,14 @@
 /* ===============================================
    1. IMPORTS
    =============================================== */
-@import url('components/_header.css');
-@import url('components/_hero.css');
-@import url('components/_about.css');
-@import url('components/_projects.css');
-@import url('components/_socials.css');
-@import url('components/_skills.css');
-@import url('components/_contact.css');
-@import url('components/_footer.css');
+@import url('./components/_header.css');
+@import url('./components/_hero.css');
+@import url('./components/_about.css');
+@import url('./components/_projects.css');
+@import url('./components/_socials.css');
+@import url('./components/_skills.css');
+@import url('./components/_contact.css');
+@import url('./components/_footer.css');
 
 
 /* ===============================================
