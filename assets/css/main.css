@@ -17,14 +17,14 @@
     --primary-color: #007bff;      /* A classic, vibrant blue */
     --primary-color-alt: #0056b3;  /* A darker blue for hover effects */
     --highlight-color: #56aeff;     /* A lighter blue for highlights */
-    --title-color: #212529;         /* A very dark grey, almost black */
-    --text-color: #495057;          /* A softer grey for body text */
+    --title-color: #ffffff;         /* A very dark grey, almost black */
+    --text-color: #f8f9fa;          /* A softer grey for body text */
     --text-color-light: #6c757d;    /* A lighter grey for subtitles */
-    --body-bg-color: #ffffff;         /* Base color, will be covered by image */
-    --container-bg-color: rgba(255, 255, 255, 0.85); /* Frosted glass effect */
+    --body-bg-color: #000000;         /* Base color, will be covered by image */
+    --container-bg-color: rgba(0, 0, 0, 0.85); /* Frosted glass effect */
     --border-color: #dee2e6;
     --box-shadow: 0 5px 20px rgba(0, 0, 0, 0.07);
-    --bg-overlay-color: rgba(255, 255, 255, 0.5); /* Light overlay for the background image */
+    --bg-overlay-color: rgba(0, 0, 0, 1); /* Light overlay for the background image */
 
     /* Typography, Spacing, Other */
     --font-primary: 'Poppins', 'Noto Sans SC', sans-serif;
