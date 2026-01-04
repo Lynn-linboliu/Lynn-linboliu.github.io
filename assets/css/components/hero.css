@@ -33,10 +33,14 @@
 }
 
 .hero__image img {
+    /* 保持宽高一致，或者调整为长方形的宽高比例 */
     width: 320px;
-    height: 320px;
+    height: 320px; 
     object-fit: cover;
-    border-radius: 50%;
+    
+    /* 替换 50% 为一个小的圆角值 */
+    border-radius: var(--border-radius); 
+    
     border: 5px solid var(--container-bg-color);
     box-shadow: var(--box-shadow);
 }
