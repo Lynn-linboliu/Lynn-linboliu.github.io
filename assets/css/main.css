@@ -24,7 +24,7 @@
     --container-bg-color: rgba(0, 0, 0, 0.85); /* Frosted glass effect */
     --border-color: #dee2e6;
     --box-shadow: 0 5px 20px rgba(0, 0, 0, 0.07);
-    --bg-overlay-color: rgba(0, 0, 0, 1); /* Light overlay for the background image */
+    --bg-overlay-color: rgba(255, 255, 255, 0.4); /* Light overlay for the background image */
 
     /* Typography, Spacing, Other */
     --font-primary: 'Poppins', 'Noto Sans SC', sans-serif;
